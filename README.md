@@ -21,7 +21,3 @@
 This tool is for **personal recovery** and educational use only.  
 We do not encourage or support unauthorized scanning of others' data.
 
-## 📦 Installation
-
-```bash
-pip install -r requirements.txt
