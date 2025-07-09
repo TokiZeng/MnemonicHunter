@@ -41,6 +41,7 @@ We recommend keeping it at `0` unless you suspect errors in the mnemonic input.
 1. Go to [Releases](https://github.com/TokiZeng/MnemonicHunter/releases)
 2. Download `MnemonicHunter.zip` and extract it
 3. Run `MnemonicHunter.exe` — **no installation needed**
+### ✅ Method 2: Download the entire project and use build.bat to generate the executable .exe file.
 
 ---
 
@@ -78,7 +79,8 @@ The file will contain paths to documents with suspected mnemonics or wallet-rela
 Feel free to submit issues, pull requests, or help with translations!  
 Author: [@TokiZeng](https://github.com/TokiZeng)
 
-
+---
+---
 
 # 🧠 MnemonicHunter
 
@@ -121,6 +123,8 @@ Author: [@TokiZeng](https://github.com/TokiZeng)
 1. 前往 [Releases](https://github.com/TokiZeng/MnemonicHunter/releases)
 2. 下載 `MnemonicHunter.zip` 並解壓縮
 3. 執行 `MnemonicHunter.exe` 即可開始使用（**免安裝**）
+
+### ✅ 方法二：整個專案下載下來，使用build.bat來產生可執行exe檔
 
 ---
 
