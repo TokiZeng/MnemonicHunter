@@ -1,0 +1,17 @@
+MnemonicHunter/
+├── gui/
+│   └── main_window.py         # tkinter GUI 介面主程式
+├── core/
+│   ├── scanner.py             # 掃描邏輯：助記詞、錢包檔案
+│   ├── bip39_loader.py        # 載入 BIP39 詞表
+│   └── utils.py               # 工具函數：檔案處理、路徑處理等
+├── lang/
+│   ├── strings_zh.py          # 繁體中文語言檔
+│   └── strings_en.py          # 英文語言檔
+├── resources/
+│   └── bip39_english.txt      # 詞表資料
+├── output/
+│   └── key.txt                # 掃描結果輸出
+├── main.py                    # 專案進入點，負責啟動 GUI
+├── README.md
+└── requirements.txt           # 所需套件
