@@ -1,0 +1,23 @@
+strings = {
+    "title": "니모닉 헌터",
+    "select_directory": "폴더 선택:",
+    "simple_search": "검색 시작",
+    "progress": "진행 상황:",
+    "pause": "일시 정지",
+    "resume": "계속",
+    "status_idle": "상태: 대기 중",
+    "status_scanning": "상태: 검색 중...",
+    "status_done": "검색 완료. 결과가 저장되었습니다.",
+    "no_folder_selected": "검색 전에 폴더를 선택하세요.",
+    "output_saved": "검색 결과가 output/key.txt 에 저장되었습니다.",
+    "mnemonic_found": "니모닉 단어 발견",
+    "scanning": "검색 중",
+    "wallet_found": "지갑 파일로 추정됨",
+    "browse": "찾아보기",
+    "tolerance_hint": "허용 오차 (0 = 엄격, 예: 5 = 관대):",
+    "cancel": "취소",
+    "status_cancelled": "취소됨...",
+    "error_title": "오류",
+    "tolerance_error": "허용 오차는 0 이상의 정수여야 합니다.",
+    "cancel_notice": "[!] 검색이 취소되었습니다."
+}

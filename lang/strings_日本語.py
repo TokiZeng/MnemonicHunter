@@ -1,0 +1,23 @@
+strings = {
+    "title": "ニーモニックハンター",
+    "select_directory": "フォルダーを選択：",
+    "simple_search": "スキャン開始",
+    "progress": "進行状況：",
+    "pause": "一時停止",
+    "resume": "再開",
+    "status_idle": "ステータス：待機中",
+    "status_scanning": "ステータス：スキャン中...",
+    "status_done": "スキャン完了。結果を保存しました。",
+    "no_folder_selected": "スキャンする前にフォルダーを選択してください。",
+    "output_saved": "スキャン結果が output/key.txt に保存されました。",
+    "mnemonic_found": "ニーモニックの単語が一致しました",
+    "scanning": "スキャン中",
+    "wallet_found": "ウォレットファイルの可能性あり",
+    "browse": "参照",
+    "tolerance_hint": "許容値（0 = 厳密、例：5 = 寛容）：",
+    "cancel": "キャンセル",
+    "status_cancelled": "キャンセルされました...",
+    "error_title": "エラー",
+    "tolerance_error": "許容値は 0 以上の整数でなければなりません。",
+    "cancel_notice": "[!] スキャンがキャンセルされました。"
+}
